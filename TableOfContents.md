@@ -1,0 +1,5 @@
+  * [User Guide](UserGuide.md)
+    * [Download](UserGuide#Download.md)
+    * [Getting Started](UserGuide#Getting_Started.md)
+  * [Reporting Bug](ReportingBug.md)
+  * [Logo](SharedMindLogo.md)

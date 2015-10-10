@@ -1,0 +1,1 @@
+[SharedMind](http://code.google.com/p/sharedmind) is a collaborative version of [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) mind mapping software. It uses [MoMoComm](http://code.google.com/p/momocomm/) as the communication library. SharedMind has been developed by researchers from the [SANDS](http://sands.sce.ntu.edu.sg/) research group at NTU Singapore.
